@@ -12,12 +12,12 @@
   },
   "dependencies": {
     "@quasar/extras": "^1.0.0",
-    "axios": "^0.18.1",
-    "echarts": "^4.4.0",
-    "numeral": "^2.0.6",
-    "quasar": "^1.0.0",
-    "vue-echarts-v3": "^2.0.1",
-    "vue-i18n": "^8.0.0"
+    "axios": "0.18.1",
+    "echarts": "4.4.0",
+    "numeral": "2.0.6",
+    "quasar": "1.22.10",
+    "vue-echarts-v3": "2.0.1",
+    "vue-i18n": "8.0.0"
   },
   "devDependencies": {
     "@quasar/app": "^1.0.0"
